@@ -31,7 +31,7 @@
 namespace tbox {
 namespace event {
 
-class Loop {
+class   Loop {
   public:
     //! 创建默认类型的事件循环
     static Loop* New();
